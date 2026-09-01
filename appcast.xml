@@ -3,12 +3,12 @@
     <channel>
         <title>AppBolt</title>
         <item>
-            <title>1.0.3</title>
-            <pubDate>Tue, 01 Sep 2026 15:05:41 +0800</pubDate>
-            <sparkle:version>1.0.3</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <title>1.0.2</title>
+            <pubDate>Tue, 01 Sep 2026 15:15:46 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://huoleihu.github.io/mac_appbolt_releases/AppBolt-1.0.3.dmg" length="3280116" type="application/octet-stream" sparkle:edSignature="i2fLoGGmAApEDLEpCcIKeSxV5MayyL7k0w2IxQMoSGCW8c5979f9lgeBQfy43YuS8aa9yxCQp3MaLP0N12fvDg=="/>
+            <enclosure url="https://huoleihu.github.io/mac_appbolt_releases/AppBolt-1.0.2.dmg" length="3280318" type="application/octet-stream" sparkle:edSignature="P/lQpmJ1B5VEoBEbempitieWHm8EhQcKlMJqH23JcFBHMxOgl9f+J/2cN8K0TQ/0mNuI39eofeWw1gWPBVZpCg=="/>
         </item>
     </channel>
 </rss>
