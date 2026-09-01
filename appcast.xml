@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>AppBolt103</title>
+        <title>AppBolt</title>
         <item>
-            <title>1.0.3</title>
-            <pubDate>Tue, 01 Sep 2026 11:25:44 +0800</pubDate>
-            <sparkle:version>1.0.3</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <title>1.0.2</title>
+            <pubDate>Tue, 01 Sep 2026 14:27:24 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://huoleihu.github.io/mac_appbolt_releases/AppBolt-1.0.3.dmg" length="3279171" type="application/octet-stream" sparkle:edSignature="8Ot6t8VesT7keWWlLOezZ6St1f1BqegDtff3KVAqM/Z/K6Q7KxtKDS+CPbk/IiXdphBFbbK5c84c608v+94aBg=="/>
+            <enclosure url="https://huoleihu.github.io/mac_appbolt_releases/AppBolt-1.0.2.dmg" length="3280326" type="application/octet-stream" sparkle:edSignature="XLc20X4hNzekbA2R8FgA0f81lgnZ1twnQFQLQXgMNa1sIEqLrWobjhQ7pLDZ2p5c7wTKl37h4zifEU80RboOAA=="/>
         </item>
     </channel>
 </rss>
