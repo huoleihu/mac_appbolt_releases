@@ -9,6 +9,7 @@
 *.tmp
 *~
 Thumbs.db
+.idea/
 
 # Local scratch (never the published artifacts)
 /scratch/
