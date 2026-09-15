@@ -1,0 +1,15 @@
+# macOS cruft
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editor / temp
+*.swp
+*.tmp
+*~
+Thumbs.db
+
+# Local scratch (never the published artifacts)
+/scratch/
+/build-local/
