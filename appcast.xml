@@ -4,12 +4,12 @@
         <title>AppBolt</title>
         <item>
             <title>1.0.3</title>
-            <pubDate>Thu, 24 Sep 2026 12:16:05 +0800</pubDate>
-            <sparkle:version>36</sparkle:version>
+            <pubDate>Wed, 07 Oct 2026 16:08:22 +0800</pubDate>
+            <sparkle:version>39</sparkle:version>
             <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://api.macdh.com/api/version/download/AppBolt-1.0.3.dmg" length="3265411" type="application/octet-stream" sparkle:edSignature="Wj+S8LbYHEpJsb6ZtI7kF9i8fpCnfcXxZoa9gcpipF4gLe+ejT+hZYGd3fBL3QxUd+fV6p/jdoiGfHy19DPwDw=="/>
+            <enclosure url="https://api.macdh.com/api/version/download/AppBolt-1.0.3.dmg" length="3283527" type="application/octet-stream" sparkle:edSignature="OP9k78+Dyz0xh8kDIaeAYCew1JzhY14AHvY9ssd+Wu91AnGsWM1q2wU0yzVug8u57zATHKMzuORNgCQMOxk2Cw=="/>
         </item>
     </channel>
 </rss>
